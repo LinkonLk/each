@@ -6,7 +6,7 @@
 header{
 	position: fixed;
 	background-color: #000000;
-	width: 100%;
+	width: vw 100;
 	margin: 0 auto;
 	top: 0px;
 	text-align: center;
