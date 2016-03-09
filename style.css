@@ -14,7 +14,7 @@ header{
 }
 
 .page{
-	margin-top: 170px;
+	padding-top: 170;
 	color: #ffffff;
 	font-family: "Futura", Monaco, monospace;
 	text-align: center;
@@ -54,12 +54,13 @@ h2{
 
 
 .menu1:hover{
-	transition: background-color 1s, color 1s;
+	transition: background-color 2s, color 2s;
 	background-color: black;
+	color: #ffffff;
 }
 
 .menulinks:hover{
-	color: #ffffff;
+
 }
 
 span{
