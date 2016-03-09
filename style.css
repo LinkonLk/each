@@ -38,10 +38,7 @@ h2{
 	text-align: center;
 	vertical-align: 50%;
 	width: 100px;
-	height: 40px;	
-}
-
-.menulinks{
+	height: 40px;
 	color: #500000;
 	text-decoration: none;
 	font-weight: bolder;
@@ -52,9 +49,13 @@ h2{
 	line-height: 38px;
 }
 
+.menulinks{
+
+}
+
 
 .menu1:hover{
-	transition: background-color 2s, color 2s;
+	transition: background-color 1s, color 1s;
 	background-color: black;
 	color: #ffffff;
 }
