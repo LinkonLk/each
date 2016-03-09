@@ -13,11 +13,11 @@ header{
 	z-index: 1;
 }
 
-h1{
+.page{
+	margin-top: 170px;
 	color: #ffffff;
 	font-family: "Futura", Monaco, monospace;
 	text-align: center;
-	z-index: 2;
 }
 
 h2{
