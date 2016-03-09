@@ -17,6 +17,7 @@ h1{
 	color: #ffffff;
 	font-family: "Futura", Monaco, monospace;
 	text-align: center;
+	z-index: 2;
 }
 
 h2{
